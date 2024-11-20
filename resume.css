@@ -1,0 +1,23 @@
+body {
+    background-color: #e4aad8;
+}
+
+h1 {
+    background-color: #A3C9FF;
+    width: 175px;
+}
+
+.projects {
+    background-color: #fde7c1;
+    width: 89px;
+}
+
+.education {
+    background-color: #B0E0E6;
+    width: 110px;
+}
+
+.skills {
+    background-color: #F3E1E1;
+    width: 60px;
+}
